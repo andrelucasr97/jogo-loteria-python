@@ -47,7 +47,7 @@ projeto-adivinhacao/
 1. Clone este repositório:
 
 ```
-git clone https://github.com/andrelucasr97/projeto_loteria.git
+git clone https://github.com/andrelucasr97/jogo-loteria-python.git
 ```
 
 2. Acesse a pasta do projeto:
