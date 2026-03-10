@@ -53,7 +53,7 @@ git clone https://github.com/andrelucasr97/jogo-loteria-python.git
 2. Acesse a pasta do projeto:
 
 ```
-cd nome-do-repositorio
+cd projeto_loteria
 ```
 
 3. Execute o arquivo Python:
