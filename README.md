@@ -91,6 +91,6 @@ Parabéns, você acertou o número!
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Projeto desenvolvido para prática de **Python e lógica de programação**.
